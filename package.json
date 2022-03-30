@@ -1,0 +1,36 @@
+{
+  "name": "solid-use-file-upload",
+  "version": "0.9.0",
+  "description": "Simple SolidJS hook to make file uploading easier",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frixaco/solid-use-file-upload.git"
+  },
+  "keywords": [
+    "solidjs",
+    "solid file upload",
+    "solid hook file upload",
+    "solidjs file upload",
+    "upload file",
+    "file uploading",
+    "use file upload"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frixaco/solid-use-file-upload/issues"
+  },
+  "homepage": "https://github.com/frixaco/solid-use-file-upload#readme",
+  "files": ["dist"],
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "solid-js": "^1.3.13"
+  }
+}
