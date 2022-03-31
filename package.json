@@ -1,6 +1,6 @@
 {
-  "name": "solid-use-file-upload",
-  "version": "0.9.0",
+  "name": "use-file-upload-solid",
+  "version": "0.9.1",
   "description": "Simple SolidJS hook to make file uploading easier",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
