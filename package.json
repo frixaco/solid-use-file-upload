@@ -1,6 +1,6 @@
 {
   "name": "use-file-upload-solid",
-  "version": "0.9.1",
+  "version": "0.9.9",
   "description": "Simple SolidJS hook to make file uploading easier",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "typescript": "^4.6.3"
   },
-  "dependencies": {
+  "peerDependencies": {
     "solid-js": "^1.3.13"
   }
 }
